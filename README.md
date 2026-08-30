@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou Letícia Magalhães
+# Olá! Eu sou Letícia Magalhães :)
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -38,12 +38,10 @@ Tenho interesse em entender não apenas como as aplicações funcionam, mas tamb
 
 ## Atualmente estudando
 
-- Cibersegurança
 - Linux
 - Redes e protocolos
 - Segurança de aplicações
 - Autenticação e autorização
-- Desenvolvimento backend
 
 ---
 
@@ -68,7 +66,7 @@ Projeto desenvolvido de forma incremental, acompanhando minha evolução em prog
 ## 📚 Formação
 
 **Análise e Desenvolvimento de Sistemas**  
-Impacta Tecnologia
+Impacta Tecnologia - Cursando 
 
 ---
 
