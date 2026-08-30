@@ -27,8 +27,4 @@ Criei este projeto para colocar em prática o que venho estudando sozinha em Pyt
 
 ## Formação
 **Análise e Desenvolvimento de Sistemas**
-Impacta Tecnologia — Cursando (início em [08/2026])
-
-## 📫 Contato
-* E-mail: [leticiamagalhaes.ti@gmail.com](mailto:leticiamagalhaes.ti@gmail.com)
-* LinkedIn: [Letícia Magalhães](https://www.linkedin.com/in/leticia-magalhaes-ads)
+Impacta Tecnologia — Cursando (08/2026 a 12/2028)
