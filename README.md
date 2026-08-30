@@ -1,76 +1,33 @@
-<div align="center">
-
-# Olá! Eu sou Letícia Magalhães :)
-
-### Estudante de Análise e Desenvolvimento de Sistemas
-
-<p>
-🐍 Python &nbsp; | &nbsp; 💻 Backend &nbsp; | &nbsp; 🔐 Cybersecurity
-</p>
-
-</div>
-
----
+Olá! Eu sou Letícia Magalhães :)
+Estudante de Análise e Desenvolvimento de Sistemas
+🐍 Python   |   💻 Backend   |   🔐 Cybersecurity
 
 ## Sobre mim
-
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha transição para a área de tecnologia.
-
 Atualmente, venho desenvolvendo projetos em Python, estudando desenvolvimento backend e aprofundando meus conhecimentos em Cibersegurança.
-
 Tenho interesse em entender não apenas como as aplicações funcionam, mas também como podem ser protegidas.
 
----
-
-## Tecnologias e conhecimentos
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## Atualmente estudando
-
-- Linux
-- Redes e protocolos
-- Segurança de aplicações
-- Autenticação e autorização
-
----
+**Tecnologias:** Python · SQL/SQLite · Git & GitHub · FastAPI · bcrypt
+**Estudando agora:** Linux · Redes e protocolos · Segurança de aplicações · Autenticação e autorização
 
 ## ⭐ Projeto em destaque
-
 ### Sistema de Autenticação em Python
+Criei este projeto para colocar em prática o que eu venho estudando sozinha em Python, e estou evoluindo ele em versões conforme vou aprendendo mais sobre backend e segurança.
 
-Projeto desenvolvido de forma incremental, acompanhando minha evolução em programação, desenvolvimento backend e segurança.
-
-**V1.0** — Cadastro e Login  
-**V2.0** — SQLite + bcrypt  
-**V3.0** — API REST com FastAPI  
-**V4.0** — JWT + Autorização  
-**V5.0** — Recuperação de senha  
-**V6.0** — Camada de segurança  
-**V7.0** — Versão final
+✅ V1.0 — Cadastro e Login
+⏳ V2.0 — SQLite + bcrypt
+⏳ V3.0 — API REST com FastAPI ← você está aqui
+⏳ V4.0 — JWT + Autorização
+⏳ V5.0 — Recuperação de senha
+⏳ V6.0 — Camada de segurança
+⏳ V7.0 — Versão final
 
 [🔗 Ver projeto](https://github.com/leticiamagalhaes-ti/projeto-sistema-autenticacao)
 
----
-
 ## 📚 Formação
-
-**Análise e Desenvolvimento de Sistemas**  
-Impacta Tecnologia - Cursando 
-
----
+**Análise e Desenvolvimento de Sistemas**
+Impacta Tecnologia — Cursando (início em [08/2026])
 
 ## 📫 Contato
-
-- **E-mail:** leticiamagalhaes.ti@gmail.com
-- **LinkedIn:** [Letícia Magalhães](https://www.linkedin.com/in/leticia-magalhaes-ads)
+* E-mail: [leticiamagalhaes.ti@gmail.com](mailto:leticiamagalhaes.ti@gmail.com)
+* LinkedIn: [Letícia Magalhães](https://www.linkedin.com/in/leticia-magalhaes-ads)
