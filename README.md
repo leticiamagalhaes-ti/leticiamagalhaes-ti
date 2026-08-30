@@ -36,7 +36,7 @@ Tenho interesse em entender não apenas como as aplicações funcionam, mas tamb
 
 ---
 
-## 🔐 Atualmente estudando
+## Atualmente estudando
 
 - Cibersegurança
 - Linux
