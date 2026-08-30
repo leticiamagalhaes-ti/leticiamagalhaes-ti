@@ -1,6 +1,5 @@
 <img width="1472" height="764" alt="image" src="https://github.com/user-attachments/assets/6cb990b4-517d-4c1f-8cdf-a19c8836f7e1" />
 <div align="center">
----
 
 ## Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha transição para a área de tecnologia.
