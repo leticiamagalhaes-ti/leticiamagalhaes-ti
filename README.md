@@ -5,7 +5,7 @@
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
 <p>
-🐍 Python &nbsp; | &nbsp; 💻 Backend &nbsp; | &nbsp; 🔐 Cybersecurity
+🐍 Python &nbsp; | &nbsp; 💻 Backend
 </p>
 
 </div>
@@ -23,7 +23,7 @@ Tenho interesse em entender não apenas como as aplicações funcionam, mas tamb
 
 ## ⭐ Projeto em destaque
 ### Sistema de Autenticação em Python
-Criei este projeto para colocar em prática o que eu venho estudando sozinha em Python, e estou evoluindo ele em versões conforme vou aprendendo mais sobre backend e segurança.
+Criei este projeto para colocar em prática o que venho estudando sozinha em Python, e estou evoluindo o projeto em versões conforme vou aprendendo mais sobre backend e segurança.
 
 - ✅ **V1.0** — Cadastro e Login
 - ⏳ **V2.0** — SQLite + bcrypt
