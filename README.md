@@ -1,14 +1,5 @@
+<img width="1774" height="887" alt="banner-github png" src="https://github.com/user-attachments/assets/0ba0dd41-0497-4c93-91cc-386eab1026f1" />
 <div align="center">
-
-# Olá! Eu sou Letícia Magalhães :)
-
-### Estudante de Análise e Desenvolvimento de Sistemas
-
-<p>
-🐍 Python &nbsp; | &nbsp; 💻 Backend
-</p>
-
-</div>
 
 ---
 
