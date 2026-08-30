@@ -11,7 +11,7 @@ Tenho interesse em entender não apenas como as aplicações funcionam, mas tamb
 
 - **Estudando agora:** Linux · Redes e protocolos · Segurança de aplicações · Autenticação e autorização
 
-## ⭐ Projeto em destaque
+## Projeto em destaque
 ### Sistema de Autenticação em Python
 Criei este projeto para colocar em prática o que venho estudando sozinha em Python, e estou evoluindo o projeto em versões conforme vou aprendendo mais sobre backend e segurança.
 
