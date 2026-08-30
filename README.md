@@ -18,6 +18,7 @@ Atualmente, venho desenvolvendo projetos em Python, estudando desenvolvimento ba
 Tenho interesse em entender não apenas como as aplicações funcionam, mas também como podem ser protegidas.
 
 **Tecnologias:** Python · SQL/SQLite · Git & GitHub · FastAPI · bcrypt
+
 **Estudando agora:** Linux · Redes e protocolos · Segurança de aplicações · Autenticação e autorização
 
 ## ⭐ Projeto em destaque
