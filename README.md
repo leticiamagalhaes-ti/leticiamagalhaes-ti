@@ -25,7 +25,7 @@ Criei este projeto para colocar em prática o que venho estudando sozinha em Pyt
 
 [🔗 Ver projeto](https://github.com/leticiamagalhaes-ti/projeto-sistema-autenticacao)
 
-## 📚 Formação
+## Formação
 **Análise e Desenvolvimento de Sistemas**
 Impacta Tecnologia — Cursando (início em [08/2026])
 
