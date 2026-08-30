@@ -25,7 +25,7 @@ Tenho interesse em entender não apenas como as aplicações funcionam, mas tamb
 ### Sistema de Autenticação em Python
 Criei este projeto para colocar em prática o que eu venho estudando sozinha em Python, e estou evoluindo ele em versões conforme vou aprendendo mais sobre backend e segurança.
 
-✅ V1.0 — Cadastro e Login
+✅**V1.0** — Cadastro e Login
 ⏳ V2.0 — SQLite + bcrypt
 ⏳ V3.0 — API REST com FastAPI ← você está aqui
 ⏳ V4.0 — JWT + Autorização
