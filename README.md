@@ -1,6 +1,16 @@
-Olá! Eu sou Letícia Magalhães :)
-Estudante de Análise e Desenvolvimento de Sistemas
-🐍 Python   |   💻 Backend   |   🔐 Cybersecurity
+<div align="center">
+
+# Olá! Eu sou Letícia Magalhães :)
+
+### Estudante de Análise e Desenvolvimento de Sistemas
+
+<p>
+🐍 Python &nbsp; | &nbsp; 💻 Backend &nbsp; | &nbsp; 🔐 Cybersecurity
+</p>
+
+</div>
+
+---
 
 ## Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha transição para a área de tecnologia.
