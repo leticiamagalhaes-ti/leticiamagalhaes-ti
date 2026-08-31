@@ -3,9 +3,7 @@
 </div>
 
 ## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha transição para a área de tecnologia.
-Atualmente, venho desenvolvendo projetos em Python, estudando desenvolvimento backend e aprofundando meus conhecimentos em Cibersegurança.
-Tenho interesse em entender não apenas como as aplicações funcionam, mas também como podem ser protegidas.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend e segurança de aplicações. Atualmente desenvolvo projetos em Python, estudando APIs, bancos de dados, autenticação e boas práticas de segurança.
 
 - **Tecnologias:** Python · SQL/SQLite · Git & GitHub · FastAPI · bcrypt
 
