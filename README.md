@@ -13,13 +13,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
 ### Sistema de Autenticação em Python
 Criei este projeto para colocar em prática o que venho estudando sozinha em Python, e estou evoluindo o projeto em versões conforme vou aprendendo mais sobre backend e segurança.
 
-[x] **V1.0** — Cadastro e Login
-[x] **V2.0** — SQLite + bcrypt
-[ ] **V3.0** — API REST com FastAPI 
-[ ] **V4.0** — JWT + Autorização
-[ ] **V5.0** — Recuperação de senha
-[ ] **V6.0** — Camada de segurança
-[ ] **V7.0** — Versão final
+- [x] **V1.0** — Cadastro e Login
+- [x] **V2.0** — SQLite + bcrypt
+- [ ] **V3.0** — API REST com FastAPI 
+- [ ] **V4.0** — JWT + Autorização
+- [ ] **V5.0** — Recuperação de senha
+- [ ] **V6.0** — Camada de segurança
+- [ ] **V7.0** — Versão final
 
 [🔗 Ver projeto](https://github.com/leticiamagalhaes-ti/projeto-sistema-autenticacao)
 
