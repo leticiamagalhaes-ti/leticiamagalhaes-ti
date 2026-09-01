@@ -15,7 +15,7 @@ Criei este projeto para colocar em prática o que venho estudando sozinha em Pyt
 
 - [x] **V1.0** — Cadastro e Login
 - [x] **V2.0** — SQLite + bcrypt
-- [ ] **V3.0** — API REST com FastAPI 
+- [x] **V3.0** — API REST com FastAPI 
 - [ ] **V4.0** — JWT + Autorização
 - [ ] **V5.0** — Recuperação de senha
 - [ ] **V6.0** — Camada de segurança
